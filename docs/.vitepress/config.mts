@@ -9,16 +9,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '简介', link: '/' },
-      { text: '教程', link: '/markdown-examples' }
+      { text: '教程', link: '/00准备开始' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Vim',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
+          { text: '00 准备开始', link: '/00准备开始' },
+          { text: '01 在 Vim 中存活下去', link: '/01在Vim中存活下去' },
+        ] 
       }
     ],
 

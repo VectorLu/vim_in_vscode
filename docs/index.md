@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习 Vim
-      link: /markdown-examples
+      link: /00准备开始
     - theme: alt
       text: 打造全键盘操作的 vscode
       link: /api-examples
