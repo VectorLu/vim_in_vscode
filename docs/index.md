@@ -12,7 +12,7 @@ hero:
       link: /00准备开始
     - theme: alt
       text: 打造全键盘操作的 vscode
-      link: /api-examples
+      link: /18Vim调用vscode命令
 
 features:
   - title: 你能学到 1
